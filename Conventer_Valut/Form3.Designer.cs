@@ -1,6 +1,6 @@
 ﻿namespace Conventer_Valut
 {
-    partial class Form2
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.
@@ -28,33 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.webBrowser2 = new System.Windows.Forms.WebBrowser();
+            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
             // 
-            // webBrowser2
+            // webBrowser1
             // 
-            this.webBrowser2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser2.Location = new System.Drawing.Point(0, 0);
-            this.webBrowser2.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser2.Name = "webBrowser2";
-            this.webBrowser2.Size = new System.Drawing.Size(1043, 469);
-            this.webBrowser2.TabIndex = 0;
-            this.webBrowser2.Url = new System.Uri("http://www.nbrb.by/statistics/Rates/Graphic/", System.UriKind.Absolute);
+            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webBrowser1.Location = new System.Drawing.Point(0, 0);
+            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser1.Name = "webBrowser1";
+            this.webBrowser1.Size = new System.Drawing.Size(919, 353);
+            this.webBrowser1.TabIndex = 0;
+            this.webBrowser1.Url = new System.Uri("http://myfin.by/bank/currency/minsk", System.UriKind.Absolute);
             // 
-            // Form2
+            // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1043, 469);
-            this.Controls.Add(this.webBrowser2);
-            this.Name = "Form2";
-            this.Text = "Statistica";
+            this.ClientSize = new System.Drawing.Size(919, 353);
+            this.Controls.Add(this.webBrowser1);
+            this.Name = "Form3";
+            this.Text = "Banks";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.WebBrowser webBrowser2;
+        private System.Windows.Forms.WebBrowser webBrowser1;
     }
 }

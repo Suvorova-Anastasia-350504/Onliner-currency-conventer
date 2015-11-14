@@ -57,8 +57,12 @@ namespace Conventer_Valut
         {
             Form2 form2 = new Form2();
             form2.Show();
-            //webBrowser1.Navigate("");
-            //webBrowser1.Navigate("http://forexbrest.info/kurs/usd/");
+         }
+
+        private void Banks_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.Show();
         }
 
     }

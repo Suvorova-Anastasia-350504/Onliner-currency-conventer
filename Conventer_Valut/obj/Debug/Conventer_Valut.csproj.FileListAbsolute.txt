@@ -43,3 +43,4 @@ C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
 C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form2.resources
 C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
 C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form3.resources

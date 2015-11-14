@@ -186,6 +186,7 @@
             this.Banks.TabIndex = 13;
             this.Banks.Text = "По банкам";
             this.Banks.UseVisualStyleBackColor = true;
+            this.Banks.Click += new System.EventHandler(this.Banks_Click);
             // 
             // Form1
             // 
