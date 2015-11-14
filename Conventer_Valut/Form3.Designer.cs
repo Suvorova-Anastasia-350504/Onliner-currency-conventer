@@ -33,11 +33,14 @@
             // 
             // webBrowser1
             // 
-            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser1.Location = new System.Drawing.Point(0, 0);
+            this.webBrowser1.CausesValidation = false;
+            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.webBrowser1.IsWebBrowserContextMenuEnabled = false;
+            this.webBrowser1.Location = new System.Drawing.Point(0, -226);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(919, 353);
+            this.webBrowser1.ScriptErrorsSuppressed = true;
+            this.webBrowser1.Size = new System.Drawing.Size(936, 693);
             this.webBrowser1.TabIndex = 0;
             this.webBrowser1.Url = new System.Uri("http://myfin.by/bank/currency/minsk", System.UriKind.Absolute);
             // 
@@ -45,8 +48,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(919, 353);
+            this.ClientSize = new System.Drawing.Size(936, 467);
             this.Controls.Add(this.webBrowser1);
+            this.Location = new System.Drawing.Point(100, 0);
             this.Name = "Form3";
             this.Text = "Banks";
             this.ResumeLayout(false);
@@ -56,5 +60,6 @@
         #endregion
 
         private System.Windows.Forms.WebBrowser webBrowser1;
+
     }
 }
