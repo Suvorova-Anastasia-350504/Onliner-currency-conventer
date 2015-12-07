@@ -1,0 +1,57 @@
+c:\users\юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+D:\Мои документы\5 семестр\ТиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+D:\Мои документы\5 семестр\ТРиТПО\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\OnlinerCurrencyConventer\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form2.resources
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+C:\OnlinerCurrencyConventer\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Conventer\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+C:\Conventer\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+C:\Conventer\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form2.resources
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form3.resources
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form2.resources
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Form3.resources
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Users\Anastasiy\Desktop\Conventer\Conventer_Valut\obj\Debug\Conventer_Valut.exe
